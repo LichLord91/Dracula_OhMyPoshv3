@@ -1,20 +1,22 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Oh My Posh](https://ohmyposh.dev/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [Oh My Posh](https://ohmyposh.dev/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/ohmyposh](https://draculatheme.com/ohmyposh).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/ohmyposh/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Lichlord91](https://github.com/LichLord91.png?size=100)](https://github.com/LichLord91)  |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[LichLord91](https://github.com/LichLord91) |
+
+
 
 ## License
 
